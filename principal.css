@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 mar 2023, 20:04:43
+    Author     : Diker Hidalgo
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+.fondo{
+    width: 30%;
+    height: auto;
+    position: absolute;
+    bottom: 50px;
+    right: 150px;
+    flex:1;
+}
+.Container{
+    height: 100vh;
+    align-items: center;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+.h1{
+    align-items: center;
+}
